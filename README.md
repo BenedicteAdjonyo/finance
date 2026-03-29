@@ -50,7 +50,7 @@ pip install pandas matplotlib reportlab
 Lancer le programme :
 
 ```bash
-python main.py
+python depenses.py
 cd finance
 ```
 
