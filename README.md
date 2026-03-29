@@ -51,6 +51,7 @@ Lancer le programme :
 
 ```bash
 python main.py
+cd finance
 ```
 
 ---
