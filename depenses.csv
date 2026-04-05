@@ -1,3 +1,6 @@
 utilisateur,date,categorie,montant
 Israel,2026-03-29 00:00:00,nourriture,1000.0
-Josue,2026-03-29,nourriture,5000.0
+Josue,2026-03-29 00:00:00,nourriture,5000.0
+Israel,2026-04-01 00:00:00,deplacement,1100.0
+Israel,2026-04-01 00:00:00,nourriture,200.0
+Israel,2026-04-02,autres,400.0
