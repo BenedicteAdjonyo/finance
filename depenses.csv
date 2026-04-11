@@ -1,3 +1,16 @@
 utilisateur,date,categorie,montant
 Eyram,2026-03-29 00:00:00,nourriture,2500.0
-Eyram,2026-03-30,nourriture,1600.0
+Eyram,2026-03-30 00:00:00,nourriture,1600.0
+Eyram,2026-03-31 00:00:00,nourriture,1650.0
+Eyram,2026-04-01 00:00:00,nourriture,1050.0
+Eyram,2026-04-02 00:00:00,nourriture,1225.0
+Eyram,2026-04-03 00:00:00,nourriture,1000.0
+Eyram,2026-04-04 00:00:00,deplacement,3000.0
+Eyram,2026-04-06 00:00:00,nourriture,50.0
+Eyram,2026-04-06 00:00:00,internet,200.0
+Eyram,2026-04-07 00:00:00,nourriture,300.0
+Eyram,2026-04-08 00:00:00,nourriture,600.0
+Eyram,2026-04-09 00:00:00,nourriture,300.0
+Eyram,2026-04-09 00:00:00,deplacement,2500.0
+Eyram,2026-04-09 00:00:00,internet,200.0
+Eyram,2026-04-10,nourriture,300.0
