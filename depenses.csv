@@ -6,4 +6,10 @@ Israel,2026-04-01 00:00:00,nourriture,200.0
 Israel,2026-04-02 00:00:00,autres,400.0
 Josue,2026-03-30 00:00:00,nourriture,150.0
 Josue,2026-04-01 00:00:00,deplacement,1100.0
-Josue,2026-04-01,nourriture,500.0
+Josue,2026-04-01 00:00:00,nourriture,500.0
+Israel,2026-04-13 00:00:00,deplacement,700.0
+Israel,2026-04-14 00:00:00,deplacement,650.0
+Josue,2026-04-13 00:00:00,nourriture,375.0
+Josue,2026-04-13 00:00:00,deplacement,400.0
+Josue,2026-04-14 00:00:00,deplacement,650.0
+Josue,2026-04-14,nourriture,175.0
