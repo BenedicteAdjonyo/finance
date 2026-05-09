@@ -1,2 +1,33 @@
 utilisateur,date,categorie,montant
-Benedicte,2026-03-29,nourriture,2500.0
+Benedicte,2026-03-29 00:00:00,nourriture,2500.0
+Benedicte,2026-04-01 00:00:00,deplacement,1600.0
+Benedicte,2026-04-02 00:00:00,deplacement,1600.0
+Benedicte,2026-04-02 00:00:00,nourriture,350.0
+Benedicte,2026-04-11 00:00:00,deplacement,2100.0
+Benedicte,2026-04-15 00:00:00,autres,1000.0
+Benedicte,2026-04-15 00:00:00,nourriture,400.0
+Benedicte,2026-04-18 00:00:00,deplacement,800.0
+Benedicte,2026-04-19 00:00:00,deplacement,1000.0
+Benedicte,2026-04-19 00:00:00,nourriture,500.0
+Benedicte,2026-04-20 00:00:00,deplacement,1200.0
+Benedicte,2026-04-21 00:00:00,deplacement,1500.0
+Benedicte,2026-04-21 00:00:00,nourriture,500.0
+Benedicte,2026-04-22 00:00:00,deplacement,900.0
+Benedicte,2026-04-23 00:00:00,deplacement,800.0
+Benedicte,2026-04-24 00:00:00,deplacement,900.0
+Benedicte,2026-04-25 00:00:00,deplacement,1000.0
+Benedicte,2026-04-26 00:00:00,deplacement,1000.0
+Benedicte,2026-04-28 00:00:00,autres,1700.0
+Benedicte,2026-04-29 00:00:00,deplacement,800.0
+Benedicte,2026-04-30 00:00:00,deplacement,1000.0
+Benedicte,2026-05-02 00:00:00,autres,675.0
+Benedicte,2026-05-04 00:00:00,deplacement,800.0
+Benedicte,2026-05-04 00:00:00,nourriture,500.0
+Benedicte,2026-05-04 00:00:00,autres,1500.0
+Benedicte,2026-05-05 00:00:00,autres,475.0
+Benedicte,2026-05-05 00:00:00,nourriture,400.0
+Benedicte,2026-05-05 00:00:00,deplacement,2000.0
+Benedicte,2026-05-06 00:00:00,deplacement,900.0
+Benedicte,2026-05-06 00:00:00,autres,525.0
+Benedicte,2026-05-07 00:00:00,autres,425.0
+Benedicte,2026-05-07,deplacement,800.0
